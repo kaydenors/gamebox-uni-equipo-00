@@ -1,2 +1,4 @@
-# gamebox-uni-equipo-00
-Repo del taller dominio de git y github 25/07/2008
+# Gamebox UNI
+Proyecto de práctica para Sistemas y Computación.
+## Byte
+Byte atriavesa paredes.
